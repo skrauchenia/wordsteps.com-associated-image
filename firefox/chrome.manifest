@@ -1,0 +1,1 @@
+overlay chrome://browser/content/browser.xul chrome://sample/content/sample.xul
